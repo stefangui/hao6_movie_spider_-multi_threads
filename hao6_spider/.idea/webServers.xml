@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="873caf63-cd17-4c0b-95dc-848e26f25f57" name="hao6_spider" url="http://23.83.233.38">
+        <fileTransfer host="23.83.233.38" port="29159" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="29159" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
